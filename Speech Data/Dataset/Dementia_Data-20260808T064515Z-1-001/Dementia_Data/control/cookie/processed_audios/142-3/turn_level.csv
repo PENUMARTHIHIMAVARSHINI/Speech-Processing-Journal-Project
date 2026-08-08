@@ -1,0 +1,13 @@
+start,end,speaker,text
+0.785,4.745,SPEAKER_01,"One more thing. What I want you to do is take a look at that picture"
+4.745,4.985,SPEAKER_00,"Mm-hmm."
+4.985,7.305,SPEAKER_01,"and tell me everything you see happening."
+7.685,9.325,SPEAKER_01,"Everything that's going on."
+11.245,13.685,SPEAKER_00,"Well, the water's running over on the floor."
+15.205,17.445,SPEAKER_00,"Um, the chair is tilting,"
+18.645,20.445,SPEAKER_00,"the boy's into the cookie jar,"
+21.605,24.205,SPEAKER_00,"and his sister is reaching for a cookie,"
+25.165,26.845,SPEAKER_00,"and mother's drying dishes."
+27.885,28.445,SPEAKER_00,"Um"
+30.565,34.605,SPEAKER_00,"Do you want action or just want anything I see? Just action. Okay."
+45.285,47.125,SPEAKER_00,"Okay, thanks very much."

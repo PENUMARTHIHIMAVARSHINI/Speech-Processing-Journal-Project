@@ -1,0 +1,13 @@
+start,end,speaker,text
+0.245,2.225,SPEAKER_00,"The first word is pencil."
+3.845,5.365,SPEAKER_01,"I wrote with my pencil."
+8.185,9.805,SPEAKER_00,"The next word is tree."
+13.205,14.005,SPEAKER_01,"The tree"
+15.705,16.865,SPEAKER_01,"the tree is beautiful."
+19.465,21.045,SPEAKER_00,"Now I've got two words."
+21.225,31.065,SPEAKER_00,"Okay? I want you to put both words into a brief sentence. Don't worry about the word order. You can use them in any order, but use both words in one sentence."
+32.185,34.125,SPEAKER_00,"Child hospital."
+35.785,38.205,SPEAKER_01,"The child was taken to the hospital."
+45.385,47.725,SPEAKER_00,"The next two words are cold"
+48.025,48.725,SPEAKER_00,"winter."
+61.405,63.865,SPEAKER_01,"Can't think of any uh right now at"

@@ -1,0 +1,17 @@
+start,end,text,speaker
+0.005,0.525,Okay.,SPEAKER_01
+0.845,3.845,I just want you to tell me what you see going on in that picture.,SPEAKER_01
+3.845,5.365,"Well, the water's running over.",SPEAKER_00
+6.185,9.045,The stool is the boy's gonna fall off the stool.,SPEAKER_00
+10.245,16.845,"The girl is saying, Give me one or I will tell. And the boy's taking the second one out of the cookie jar, the lid's gonna fall off.",SPEAKER_00
+17.645,19.385,The mother's drying the dishes.,SPEAKER_00
+20.885,21.825,The um,SPEAKER_00
+23.365,24.365,window is open.,SPEAKER_00
+27.245,28.605,She's standing in the water.,SPEAKER_00
+30.765,32.345,She's drawing the dishes.,SPEAKER_00
+45.085,45.845,Anything else?,SPEAKER_01
+45.885,49.125,"Wait, we want what's in the picture? What's going on? I can see what was going on.",SPEAKER_00
+49.125,49.805,Just what's going on.,SPEAKER_01
+49.805,51.105,"Okay, so that's gotta be",SPEAKER_00
+52.525,53.045,action.,SPEAKER_00
+55.045,55.605,Okay.,SPEAKER_01

@@ -1,0 +1,13 @@
+start,end,speaker,text
+0.145,2.345,SPEAKER_01,"The little boy's got on the"
+3.765,4.705,SPEAKER_01,"stepstool"
+6.245,6.945,SPEAKER_01,"to get a"
+7.505,8.285,SPEAKER_01,"cookie"
+9.485,10.765,SPEAKER_01,"that's going to fall off,"
+12.485,12.845,SPEAKER_01,"and"
+13.745,14.585,SPEAKER_01,"the mother's"
+15.185,15.925,SPEAKER_01,"doing dishes."
+15.925,16.325,SPEAKER_00,"she's"
+17.385,19.105,SPEAKER_00,"running water on the floor"
+25.105,26.945,SPEAKER_00,"little sisters trying to"
+28.545,29.545,SPEAKER_00,"break him down"

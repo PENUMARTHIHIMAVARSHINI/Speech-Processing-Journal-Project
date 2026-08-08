@@ -1,0 +1,12 @@
+start,end,text,speaker
+0.005,2.785,"Oh that's odd, I'm gonna have you look at a picture.",SPEAKER_00
+2.925,9.305,"I want you to tell me all the action, all that you see going on in a picture. Tell me everything you see going on in the picture.",SPEAKER_00
+10.125,18.045,"Okay, the boy's taking cookies out of the cookie jar. The girl's reaching for them. She's apparently telling him to be quiet.",SPEAKER_01
+18.385,19.245,He's,SPEAKER_01
+19.585,21.285,falling off the stool.,SPEAKER_01
+21.845,26.585,Uh mom's washing dishes while the water runs out over the sink.,SPEAKER_01
+27.365,31.085,Um looks like the curtain might be blowing a little bit there.,SPEAKER_01
+32.405,35.445,Uh and she's stepping out of the puddle.,SPEAKER_01
+42.005,43.345,I guess that's about it.,SPEAKER_01
+44.365,44.925,Okay.,SPEAKER_00
+46.465,46.745,Good.,SPEAKER_00

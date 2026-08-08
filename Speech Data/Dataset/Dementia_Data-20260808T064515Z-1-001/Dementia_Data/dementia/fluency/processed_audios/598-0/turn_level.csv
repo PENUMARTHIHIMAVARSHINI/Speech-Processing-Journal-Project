@@ -1,0 +1,13 @@
+start,end,speaker,text
+0.005,3.205,SPEAKER_01,"Name all the animals you can think of and you can start now."
+5.085,6.845,SPEAKER_00,"Cow, horse,"
+7.925,9.505,SPEAKER_00,"rabbit, squirrel,"
+10.085,10.925,SPEAKER_00,"chipmunk,"
+12.105,13.545,SPEAKER_00,"skunk,"
+14.125,15.905,SPEAKER_00,"weasel, cow,"
+17.565,18.425,SPEAKER_00,"pig,"
+21.265,22.065,SPEAKER_00,"calf,"
+30.545,31.425,SPEAKER_00,"bear,"
+33.085,33.885,SPEAKER_00,"camel,"
+34.865,35.365,SPEAKER_00,"sheep,"
+39.645,41.185,SPEAKER_00,"chicken, rooster."

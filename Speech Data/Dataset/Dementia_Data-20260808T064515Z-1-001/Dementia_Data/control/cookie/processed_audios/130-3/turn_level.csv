@@ -1,0 +1,12 @@
+start,end,speaker,text
+0.525,1.825,SPEAKER_00,"Take a look at this picture"
+2.725,7.765,SPEAKER_00,"and tell me everything that you see happening in the picture. Everything that you see going on in the picture."
+9.085,13.985,SPEAKER_01,"Well the kid's uh stealing cookies out of the jar and on a stool that's toted over"
+14.845,15.565,SPEAKER_01,"and uh"
+17.145,20.305,SPEAKER_01,"his sister's waiting for him to hand our cookie or"
+20.865,22.165,SPEAKER_01,"the mother is uh"
+22.325,24.545,SPEAKER_01,"looking out the window and the dishes are uh"
+25.405,28.545,SPEAKER_01,"being washed but the water's uh over running in the sink."
+29.845,30.465,SPEAKER_01,"And uh"
+31.045,32.185,SPEAKER_01,"I'd say that's about it."
+32.385,33.045,SPEAKER_00,"Okay."

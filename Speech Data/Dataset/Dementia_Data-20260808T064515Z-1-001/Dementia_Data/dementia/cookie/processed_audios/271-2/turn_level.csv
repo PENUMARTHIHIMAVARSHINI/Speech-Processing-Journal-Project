@@ -1,0 +1,11 @@
+start,end,speaker,text
+0.025,1.825,SPEAKER_01,"Tell me what's going on in the picture."
+6.845,8.725,SPEAKER_00,"The little boy is in the"
+9.465,10.425,SPEAKER_00,"cookie jar"
+11.105,13.485,SPEAKER_00,"and standing on a stool that's"
+13.965,15.385,SPEAKER_00,"falling out from under him."
+18.045,19.585,SPEAKER_00,"And the mother has"
+21.825,23.885,SPEAKER_00,"is washing dishes in the kitchen"
+23.885,27.445,SPEAKER_01,"Thank but she doesn't have the plug in and she's having a flood."
+34.725,35.185,SPEAKER_00,"stood."
+35.905,36.685,SPEAKER_01,"That's it."

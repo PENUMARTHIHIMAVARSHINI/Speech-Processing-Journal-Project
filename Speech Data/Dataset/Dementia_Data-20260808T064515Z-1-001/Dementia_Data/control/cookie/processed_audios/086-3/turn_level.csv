@@ -1,0 +1,13 @@
+start,end,speaker,text
+0.545,7.125,SPEAKER_00,"To look at this picture and tell me everything you see going on in this picture. Tell me everything you see happening."
+7.985,13.085,SPEAKER_01,"No, a little boy has gotten up to get cookies. He's giving his sister one, but in the meantime he's"
+13.685,17.225,SPEAKER_01,"falling off the chair. She's reaching out for the cookie."
+17.705,20.285,SPEAKER_01,"The lid's off the cookie jar, so he's in there."
+20.745,24.805,SPEAKER_01,"And the mother is washing the dishes, but she's letting the sink run over."
+25.585,29.805,SPEAKER_01,"She has more dishes to do, I think. Maybe not. Maybe they're clean."
+30.445,33.245,SPEAKER_01,"And outside the window it's the lovely"
+34.185,38.025,SPEAKER_01,"day and everything has leaves on it, so it must be summer."
+39.265,39.905,SPEAKER_01,"And um"
+42.865,48.505,SPEAKER_01,"I guess that's about it. Do you want to know about their clothes or anything? No, that's it. That's all."
+48.705,49.325,SPEAKER_00,"Thank you."
+49.325,49.905,SPEAKER_01,"Mm-hmm."

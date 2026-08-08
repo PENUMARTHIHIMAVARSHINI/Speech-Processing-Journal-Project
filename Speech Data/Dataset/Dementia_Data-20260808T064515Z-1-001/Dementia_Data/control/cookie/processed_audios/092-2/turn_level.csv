@@ -1,0 +1,13 @@
+start,end,speaker,text
+5.405,10.885,SPEAKER_01,"The boy is on a tipping stool reaching for the cookie jar."
+11.625,12.805,SPEAKER_01,"A girl is"
+14.845,15.925,SPEAKER_01,"reaching for a cookie"
+15.925,16.165,SPEAKER_00,"She"
+16.165,16.185,SPEAKER_01,"jar."
+16.865,18.085,SPEAKER_00,"putting her hand on her"
+19.205,20.165,SPEAKER_00,"lips."
+20.405,22.305,SPEAKER_00,"Mother is drying dishes."
+23.685,26.065,SPEAKER_00,"Water is overflowing the sink."
+34.185,35.305,SPEAKER_00,"That's all the action"
+35.705,36.565,SPEAKER_00,"that I can see."
+36.605,37.285,SPEAKER_01,"That's fun."

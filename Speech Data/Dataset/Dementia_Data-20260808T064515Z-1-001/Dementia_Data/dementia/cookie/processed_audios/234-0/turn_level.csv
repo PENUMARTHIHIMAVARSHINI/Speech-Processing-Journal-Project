@@ -1,0 +1,11 @@
+start,end,speaker,text
+0.005,1.625,SPEAKER_01,"What do you see happening in that picture?"
+1.865,2.565,SPEAKER_01,"What's happening?"
+2.685,7.005,SPEAKER_00,"Oh, the kid is robbing a cookie jar, and the mother is washing"
+7.205,10.545,SPEAKER_00,"dishes and forgetting that her water is running on the floor."
+12.445,15.705,SPEAKER_00,"And this stool is about to dump him. See here?"
+15.785,16.545,SPEAKER_01,"Uh -huh."
+16.545,17.685,SPEAKER_00,"He's about to go."
+21.205,23.545,SPEAKER_00,"I think that's just about all I can see that"
+24.485,28.705,SPEAKER_00,"you might be looking for. He's about to drop off that stool, too."
+28.865,29.445,SPEAKER_01,"Okay."

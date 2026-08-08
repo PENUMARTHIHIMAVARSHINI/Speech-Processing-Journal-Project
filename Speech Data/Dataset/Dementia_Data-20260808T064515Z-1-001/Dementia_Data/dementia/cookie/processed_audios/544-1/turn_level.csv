@@ -1,0 +1,8 @@
+start,end,speaker,text
+0.325,4.445,SPEAKER_01,"Tell me everything that you see going on in this picture. Everything that you see happening there."
+5.005,8.125,SPEAKER_00,"Okay, the mommy is washing it drying the dishes."
+8.925,13.045,SPEAKER_00,"The boy is taking a cookie from the cookie jar and he's gonna hand it to his little sister,"
+13.565,16.245,SPEAKER_00,"and the bench is toppling over that the kid is standing on,"
+16.805,18.625,SPEAKER_00,"and the water is dripping out of the sink."
+22.165,22.625,SPEAKER_00,"Okay?"
+22.745,23.325,SPEAKER_01,"Okay."

@@ -1,0 +1,12 @@
+start,end,speaker,text
+1.485,2.085,SPEAKER_01,"Pencil."
+3.125,6.005,SPEAKER_00,"I can make any statement. We write in the pencil."
+11.165,11.705,SPEAKER_01,"Tree."
+12.865,14.905,SPEAKER_00,"The leaves were falling from the trees."
+22.825,32.585,SPEAKER_01,"Okay, now two words. You want to use both of them in the same sentence and it doesn't matter what order you mean. Child hospital. Which I would hospital."
+41.525,43.045,SPEAKER_01,"Cold winter."
+44.205,46.085,SPEAKER_00,"Last winter was very cold."
+54.065,59.205,SPEAKER_01,"Three words now in the same sentence. Okay. Chair, doctor, sit."
+61.365,64.245,SPEAKER_00,"The doctor had the patient sit in the chair."
+75.825,80.005,SPEAKER_00,"Bureau open. Bureau open drawer."
+81.545,85.585,SPEAKER_00,"Okay. The girl opens the bureau's drawer."

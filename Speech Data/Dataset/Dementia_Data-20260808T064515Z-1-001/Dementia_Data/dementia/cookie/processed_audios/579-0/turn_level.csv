@@ -1,0 +1,10 @@
+start,end,speaker,text
+0.425,0.805,SPEAKER_01,"Mm-hmm."
+2.185,3.785,SPEAKER_01,"See going on in the picture."
+7.725,9.685,SPEAKER_01,"Tell me what you see going on in the picture."
+9.685,11.465,SPEAKER_00,"Woman dish doing dishes,"
+13.045,15.505,SPEAKER_00,"boy climbing up to get some cookies,"
+16.645,19.125,SPEAKER_00,"or girl waiting to get some of the cookies."
+22.385,24.585,SPEAKER_00,"Bench is falling over with the boy."
+25.825,28.025,SPEAKER_00,"The water's dripping out on the floor."
+43.265,44.605,SPEAKER_00,"I guess that's it."

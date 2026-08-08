@@ -1,0 +1,12 @@
+start,end,speaker,text
+2.885,4.725,SPEAKER_01,"There's a kid in a cookie jar,"
+5.565,7.505,SPEAKER_01,"a girl waiting for some food,"
+8.205,9.645,SPEAKER_01,"mother spilled the water,"
+10.945,12.565,SPEAKER_01,"and she's drying the dish."
+12.565,12.585,SPEAKER_00,"There's"
+16.165,17.385,SPEAKER_00,"a kid standing on a"
+17.945,18.745,SPEAKER_00,"stool. It's"
+19.165,19.885,SPEAKER_00,"tilted."
+21.225,22.645,SPEAKER_00,"It's in the cooking jar."
+23.685,25.705,SPEAKER_00,"And the water's coming over the sink."
+27.065,28.725,SPEAKER_00,"And the window's open."

@@ -1,0 +1,13 @@
+start,end,speaker,text
+0.565,2.525,SPEAKER_01,"Well, the kids are swiping the cookies."
+4.125,5.785,SPEAKER_01,"Mom's doing the dishes as usual."
+8.345,10.245,SPEAKER_01,"And she's got water all over the floor."
+13.965,15.485,SPEAKER_01,"Anything else I need?"
+16.765,17.805,SPEAKER_00,"Drying dishes,"
+20.945,22.305,SPEAKER_00,"water running over everything."
+23.465,24.965,SPEAKER_00,"Some of the dishes aren't washing yet."
+26.245,27.345,SPEAKER_00,"Kids are taking a cookie."
+28.485,29.545,SPEAKER_00,"He's gonna fall off the"
+32.505,32.845,SPEAKER_00,"green"
+34.045,34.265,SPEAKER_00,"top"
+38.065,38.525,SPEAKER_00,"store."

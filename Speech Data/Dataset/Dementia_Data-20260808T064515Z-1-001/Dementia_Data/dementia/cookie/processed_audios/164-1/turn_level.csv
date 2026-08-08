@@ -1,0 +1,12 @@
+start,end,speaker,text
+0.945,3.985,SPEAKER_01,"Just tell me all the action you see going on in the picture."
+4.245,5.685,SPEAKER_01,"And there's the picture."
+8.805,9.805,SPEAKER_00,"all the action"
+10.145,13.305,SPEAKER_00,"okay the sink's running over"
+16.285,17.725,SPEAKER_00,"water's on the floor the"
+20.825,22.265,SPEAKER_00,"boy's standing on a"
+23.725,24.485,SPEAKER_00,"stool it's"
+26.185,27.405,SPEAKER_00,"going to tip over the"
+34.485,36.445,SPEAKER_00,"lid's off the cookie jar"
+43.705,44.125,SPEAKER_00,"that's it"
+44.645,45.385,SPEAKER_01,"Okay."

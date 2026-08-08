@@ -1,0 +1,12 @@
+start,end,speaker,text
+2.005,4.085,SPEAKER_01,"I want you to tell me everything that you"
+4.565,5.065,SPEAKER_01,"happen,"
+6.805,8.185,SPEAKER_01,"everything's going on."
+10.825,13.105,SPEAKER_00,"Okay, the ladies washing the dishes,"
+14.945,16.285,SPEAKER_00,"like they always do."
+17.305,19.145,SPEAKER_00,"The little boy's up on the school,"
+19.985,20.865,SPEAKER_00,"following over,"
+22.385,22.965,SPEAKER_00,"trying to get a cut."
+25.705,25.965,SPEAKER_01,"Trying to"
+34.205,35.185,SPEAKER_01,"fill water out of the"
+35.725,37.825,SPEAKER_01,"overran the thing."

@@ -1,0 +1,12 @@
+start,end,speaker,text
+0.765,1.745,SPEAKER_00,"Here's the picture."
+7.625,10.465,SPEAKER_00,"Can you tell me everything you see going on in the picture?"
+11.725,14.765,SPEAKER_01,"Yeah, she's spilling the water on the floor and he's falling off the"
+15.465,16.405,SPEAKER_01,"the chair the"
+16.985,17.605,SPEAKER_01,"stand"
+18.865,19.725,SPEAKER_01,"or a seater."
+26.245,27.065,SPEAKER_00,"Anything else?"
+41.685,43.185,SPEAKER_01,"The spigot's going and I"
+54.445,58.285,SPEAKER_01,"reaching out for the cookies and she's reaching for the cookies and"
+76.865,79.725,SPEAKER_01,"got the window open, I guess. I don't know."
+81.685,82.365,SPEAKER_01,"Okay."

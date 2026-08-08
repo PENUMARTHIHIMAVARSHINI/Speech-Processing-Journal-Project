@@ -1,0 +1,10 @@
+start,end,speaker,text
+3.365,3.985,SPEAKER_01,"Now then,"
+4.725,5.585,SPEAKER_01,"I'm going to give you"
+5.825,10.505,SPEAKER_01,"three words and I want you to put all three words into one sentence."
+12.225,13.185,SPEAKER_01,"Chair,"
+14.185,15.005,SPEAKER_01,"doctor,"
+15.885,16.645,SPEAKER_01,"sit."
+24.125,26.585,SPEAKER_01,"Can you put those words into a sentence for me?"
+27.765,28.485,SPEAKER_00,"Right."
+28.985,29.505,SPEAKER_01,"Mm-hmm."

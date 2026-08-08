@@ -1,0 +1,12 @@
+start,end,speaker,text
+0.345,2.045,SPEAKER_01,"I want you to take a look at this picture."
+3.365,7.365,SPEAKER_01,"Tell me everything you see happening in that picture, everything that's going on."
+14.105,14.945,SPEAKER_00,"Boy's t"
+15.625,16.645,SPEAKER_00,"touching a cake."
+17.005,17.345,SPEAKER_00,"He's"
+18.165,22.965,SPEAKER_00,"girl's reaching his hand up, her hand up, and a woman's drying the dishes"
+23.425,23.985,SPEAKER_00,"dishes."
+25.065,29.485,SPEAKER_00,"The uh water's falling uh flowing over the sink."
+34.365,37.125,SPEAKER_00,"There's cups and a plate on the sink."
+42.465,42.885,SPEAKER_01,"Okay?"
+43.045,43.365,SPEAKER_01,"Thanks."

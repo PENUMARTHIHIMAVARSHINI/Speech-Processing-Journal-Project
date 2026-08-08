@@ -1,0 +1,13 @@
+start,end,speaker,text
+0.285,5.085,SPEAKER_01,"Tell me what's going on. All the action. What's going on in this picture?"
+5.085,6.725,SPEAKER_00,"Oh, the boy is up"
+7.965,9.245,SPEAKER_00,"behind the cage,"
+10.165,13.685,SPEAKER_00,"and the woman's seat is running over,"
+16.525,18.265,SPEAKER_00,"and he's a cadence,"
+19.465,20.265,SPEAKER_00,"and his"
+21.145,22.685,SPEAKER_00,"stool is tumbling"
+23.105,23.885,SPEAKER_00,"over."
+25.265,27.305,SPEAKER_01,"Anything else going on in the picture?"
+28.465,30.125,SPEAKER_00,"Anything else wrong with him?"
+30.805,33.265,SPEAKER_01,"Going on. Any more action in the picture?"
+40.205,41.225,SPEAKER_01,"Okay."
